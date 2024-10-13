@@ -22,3 +22,7 @@ fun withDefaultParameter(name: String = "Luthfi", age: Int){
     println("=== withDefaultParameter ===")
     println("Hello, $name! You are $age years old.")
 }
+
+fun withReturn(panjang : Int, lebar : Int) : Int{
+    return (panjang * lebar)
+}
