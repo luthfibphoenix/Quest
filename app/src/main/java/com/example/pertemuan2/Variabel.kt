@@ -12,3 +12,8 @@ fun main() {
     //Float
     val floatValue: Float = 50.6f
     println("Float: $floatValue")
+
+    //Char
+    val charValue: Char = 'A'
+    println("Char: $charValue")
+
