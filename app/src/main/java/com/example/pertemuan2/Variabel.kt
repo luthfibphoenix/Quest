@@ -24,3 +24,8 @@ fun main() {
     //String
     var stringValue: String = "Hello World!"
     println("String: $stringValue")
+
+    stringValue = "Hello Kotlin!"
+    println("String: $stringValue")
+}
+
